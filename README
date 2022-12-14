@@ -1,0 +1,5 @@
+Steps to convert images to video mode format 
+1. Download images and convert them to 640 x 480 
+2. Place them in a directory
+3. Run python3 compress.py `directory-name` 
+4. View generated bitmaps in bitmap directory
